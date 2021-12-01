@@ -5,7 +5,7 @@ fun main(){
     // val
     // if else
 
-    println("Qual é o seu nome?")
+    println("Qual é o seu primeiro nome?")
 
     val nome = readLine()
 
